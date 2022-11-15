@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I'm currently work as Senior Consultant at EY Design Studio
+- 🔭 I'm currently working as Senior Consultant at EY Design Studio
 - 🌱 I’m currently learning Jetpack Compose.
 <!--
 **pinakinkansara/pinakinkansara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
